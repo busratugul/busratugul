@@ -1,6 +1,6 @@
-<div align="center">
+<div align="center" width=480 height=270>
 
-  ![Developer cat](./giphy.gif){width=480 height=270}
+  ![Developer cat](./giphy.gif)
 
    __Hello, I'm Büşra.__ 
 <small> Coding in React and JavaScript has become a passion and hobby for me as someone 
