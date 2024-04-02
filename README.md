@@ -10,12 +10,11 @@
 <br>
 
 + 💜  I'm currently working on Mini React Projects by Difficulty Level 
-  
 +  👉🏻  You can check them out in "my-react-projects" repository 
-  
 +  🌱  Learning more about React.
-  
-+  🙃 A fun fact about me: I can't live without 3 C: coding, cats, and coffee.
++  💼  Any freelance work? Do reach, chat from linkedin.
++  💬  Ask me about anything, i am happy to help.
++  🙃  A fun fact about me: I can't live without 3 C: coding, cats, and coffee.
   
 
  <br>
