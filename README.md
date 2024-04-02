@@ -3,7 +3,7 @@
   ![Developer cat](./giphy.gif)
 
   # Hi 👋🏻, I'm Busra 
-  <small>✨ Dream Developer ✨
+  <small>✨ Developing Your Dreams ✨
 
 
 </div>
