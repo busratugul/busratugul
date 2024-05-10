@@ -9,8 +9,8 @@
 </div>
 <br>
 
-+ 💜  I'm currently working on Mini React Projects by Difficulty Level 
-+  👉🏻  You can check them out in "my-react-projects" repository 
++ 💜  I'm currently working on Netflix-Clone. 
++  👉🏻  You can check them out in "netflix-clone" repository 
 +  🌱  Learning more about React.
 +  💼  Any freelance work? Do reach, chat from linkedin.
 +  💬  Ask me about anything, i am happy to help.
